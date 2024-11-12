@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://banked.com/</loc>
+  </url>
+  <url>
+    <loc>https://banked.com/consumer</loc>
+  </url>
+  <url>
+    <loc>https://banked.com/contact</loc>
+  </url>
+  <url>
+    <loc>https://banked.com/enterprise</loc>
+  </url>
+  <url>
+    <loc>https://banked.com/faqs</loc>
+  </url>
+  <url>
+    <loc>https://banked.com/get-started</loc>
+  </url>
+  <url>
+    <loc>https://banked.com/privacy-policy</loc>
+  </url>
+  <url>
+    <loc>https://banked.com/terms-and-conditions/web</loc>
+  </url>
+  <url>
+    <loc>https://banked.com/terms-and-conditions/checkout</loc>
+  </url>
+  <url>
+    <loc>https://banked.com/terms-and-conditions/mobile-app</loc>
+  </url>
+</urlset>
