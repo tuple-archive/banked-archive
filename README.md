@@ -1,1 +1,1 @@
-🗃️ Archive of www.banked.com
+🗃️ Archive of https://www.banked.com
